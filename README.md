@@ -20,9 +20,18 @@
     * В данный момент в разработке: десктопная игра на **Windows Forms**.
 * **Низкоуровневое программирование** 🏗️
     * Прохожу курс **Nand2Tetris** (почти завершил проект Hack). Понимаю, как работает компьютер от транзистора до ОС.
+    * *Считаю, что Nand2Tetris — один из лучших курсов для понимания «железа».*
 * **Базы данных** 🗄️
     * Изучаю **PostgreSQL** (использую DBeaver и psql).
     * Работаю над проектом интеграции БД в веб-приложение.
+
+---
+
+### 🏆 Мои трофеи GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EgoBryant&theme=tokyonight&no-bg=true&margin-w=4" alt="EgoBryant Trophies" width="100%" />
+</p>
 
 ---
 
